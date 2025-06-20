@@ -84,14 +84,6 @@ To analyze Ola ride booking data using SQL and visualize insights in Power BI to
 
 ---
 
-## 📎 Files Included
-
-- `ola_project_queries.sql`: SQL views used for analysis
-- `dashboard_screenshots/`: All Power BI tab screenshots
-- `README.md`: Project documentation
-
----
-
 ## 📢 Author
 
 **Prachi Chaurasia**  
